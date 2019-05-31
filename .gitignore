@@ -1,0 +1,15 @@
+.terraform
+.idea
+*.retry
+.vscode
+*.tfstate
+.fact
+.ssh
+tags
+venv/
+.venv
+*.backup
+*.swp
+.env
+.env.leave
+*.pyc
