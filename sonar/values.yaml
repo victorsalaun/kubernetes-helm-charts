@@ -1,0 +1,9 @@
+ingress:
+  enabled: true
+  hosts:
+  - name: sonar.ci.vsalaun.*****.com
+    path: /
+
+plugins:
+  install:
+  - https://binaries.sonarsource.com/Distribution/sonar-auth-github-plugin/sonar-auth-github-plugin-1.5.0.870.jar

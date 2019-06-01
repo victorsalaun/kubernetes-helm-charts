@@ -1,0 +1,4 @@
+name: sonar
+version: 1.0.0
+sources:
+- https://github.com/kubernetes/charts
