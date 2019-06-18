@@ -1,0 +1,4 @@
+name: tekton
+version: 0.0.1-SNAPSHOT
+sources:
+- https://github.com/jenkins-x-charts/tekton
