@@ -1,0 +1,20 @@
+clusterRole:
+  create: true
+
+syncGarbageCollection:
+  enabled: true
+
+git:
+  url: git@github.com:victorsalaun/flux-get-started
+
+helmOperator:
+  create: true
+
+rbac:
+  create: true
+
+registry:
+  pollInterval: 1m
+
+serviceAccount:
+  create: true
